@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 
  cd MAGIC-PRO-X
 
- python2 X-PRO.py
+ python X-PRO.py
 ```
 
 
