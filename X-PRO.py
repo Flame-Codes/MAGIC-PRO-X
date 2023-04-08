@@ -1,6 +1,6 @@
 import os, sys
 try:
-    __import__("crk").Subscraption()
+    __import__("a").Subscraption()
 except Exception as e:
     exit(str(e))
  
