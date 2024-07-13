@@ -1,7 +1,7 @@
 🥀😻WELCOME TO MY PROFILE🥰
 
 
-🔥 FLAME NAIM 🔥
+🔥 FLAME 🔥
  ! 
 
 
@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 
  rm -rf MAGIC-PRO-X
 
- git clone https://github.com/Naim75o/MAGIC-PRO-X
+ git clone https://github.com/Flame-Codes/MAGIC-PRO-X
 
  cd MAGIC-PRO-X
 
